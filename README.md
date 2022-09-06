@@ -4,9 +4,9 @@ Official Manual: [https://github.com/near/stakewars-iii/tree/main/challenges](ht
 
 Official Challenge Summary: [https://github.com/near/stakewars-iii/blob/main/challenges/challenge-summary.md](https://github.com/near/stakewars-iii/blob/main/challenges/challenge-summary.md)
 
-| ID                                                                       | Description
+| ID                                                                       | Status    | Publish date | Due date   | Owner     | Description                                                                       | Max points                                                | Type     | Target network |
 | ------------------------------------------------------------------------ | --------- | ------------ | ---------- | --------- | --------------------------------------------------------------------------------- | --------------------------------------------------------- | -------- | -------------- |
-| [001](https://github.com/ShogunCanSwim/near-staking-wars/blob/main/001.md) | Create your Shardnet wallet & deploy the NEAR CLI
+| [001](https://github.com/near/stakewars-iii/blob/main/challenges/001.md) | Published | 2022-07-13   | 2022-09-07 | OSA       | Create your Shardnet wallet & deploy the NEAR CLI.                                | \-                                                        | Core     | Shardnet       |
 
 Summary for the point system:
 * Delegated NEAR Points (DNP): at the end of the Stake Wars program, each Delegated NEAR Point (DNP) will be translated into 500 NEAR tokens delegated to your mainnet account for 1 year.
