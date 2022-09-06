@@ -6,7 +6,7 @@ Official Challenge Summary: [https://github.com/near/stakewars-iii/blob/main/cha
 
 | ID                                                                          | Description                                                                       |
 | ------------------------------------------------------------------------    | --------------------------------------------------------------------------------- |
-| [001](https://github.com/nhaplycafedang/near-staking-wars/blob/main/001.md) | Create your Shardnet wallet & deploy the NEAR CLI.                                |
+| [001](https://github.com/nhaplycafedang/near-staking-wars/blob/main/001.md) | Create your Shardnet wallet & deploy the NEAR CLI
 | [002](https://github.com/nhaplycafedang/near-staking-wars/blob/main/001.md) | Deploying a node, download a snapshot, sync it, activate the node as a validator.                                |
 | [003](https://github.com/nhaplycafedang/near-staking-wars/blob/main/001.md) | Deploy a new staking pool for your validator                                |
 | [004](https://github.com/nhaplycafedang/near-staking-wars/blob/main/001.md) | Setup tools for monitoring node status                                |
