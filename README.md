@@ -4,9 +4,9 @@ Official Manual: [https://github.com/near/stakewars-iii/tree/main/challenges](ht
 
 Official Challenge Summary: [https://github.com/near/stakewars-iii/blob/main/challenges/challenge-summary.md](https://github.com/near/stakewars-iii/blob/main/challenges/challenge-summary.md)
 
-| ID                                                                       | Description                                                                       |
-| ------------------------------------------------------------------------ | --------------------------------------------------------------------------------- |
-| [001](https://github.com/near/stakewars-iii/blob/main/challenges/001.md) | Create your Shardnet wallet & deploy the NEAR CLI.                                |
+| ID                                                                          | Description                                                                       |
+| ------------------------------------------------------------------------    | --------------------------------------------------------------------------------- |
+| [001](https://github.com/nhaplycafedang/near-staking-wars/blob/main/001.md) | Create your Shardnet wallet & deploy the NEAR CLI.                                |
 
 
 Summary for the point system:
