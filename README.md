@@ -7,6 +7,14 @@ Official Challenge Summary: [https://github.com/near/stakewars-iii/blob/main/cha
 | ID                                                                          | Description                                                                       |
 | ------------------------------------------------------------------------    | --------------------------------------------------------------------------------- |
 | [001](https://github.com/nhaplycafedang/near-staking-wars/blob/main/001.md) | Create your Shardnet wallet & deploy the NEAR CLI.                                |
+| [002](https://github.com/nhaplycafedang/near-staking-wars/blob/main/001.md) | Deploying a node, download a snapshot, sync it, activate the node as a validator.                                |
+| [003](https://github.com/nhaplycafedang/near-staking-wars/blob/main/001.md) | Deploy a new staking pool for your validator                                |
+| [004](https://github.com/nhaplycafedang/near-staking-wars/blob/main/001.md) | Setup tools for monitoring node status                                |
+| [005](https://github.com/nhaplycafedang/near-staking-wars/blob/main/001.md) | Setup a validator node on one of the most popular cloud providers.                                |
+| [006](https://github.com/nhaplycafedang/near-staking-wars/blob/main/001.md) | Cron task for ping                                |
+| [007](https://github.com/nhaplycafedang/near-staking-wars/blob/main/001.md) | Data Science for Staking                                |
+| [008](https://github.com/nhaplycafedang/near-staking-wars/blob/main/001.md) | Split revenue for staking rewards                                |
+| [009](https://github.com/nhaplycafedang/near-staking-wars/blob/main/001.md) | Monitor uptime                               |
 
 
 Summary for the point system:
